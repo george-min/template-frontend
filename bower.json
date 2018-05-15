@@ -1,0 +1,22 @@
+{
+  "name": "lesson13-douban",
+  "authors": [
+    "george <309421447@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "bootstrap": "3.3.7",
+    "angular": "^1.7.0"
+  }
+}
